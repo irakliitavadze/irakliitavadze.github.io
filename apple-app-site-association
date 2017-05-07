@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KA276PEF9V.com.25Friends.25Friends",
+                "paths": [ "/iOS-Universal-Links/*", "*"]
+            }
+        ]
+    }
+}
