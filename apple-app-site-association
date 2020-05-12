@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "SH3RCWF247.com.nfcmagazine",
-                "paths": [""]
+                "paths": ["*"]
             }
         ]
     }
