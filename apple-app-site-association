@@ -5,7 +5,7 @@
              "appIDs": [ "7W5SZ22RAT.com.garantiemax" ],
              "components": [
                {
-                  "/": "/*",
+                  "/": "/",
                   "?": { "modal": "CreatePassword", "token": "*"},
                   "comment": "Matches any URL with a path that starts with /help/ and that has a query item with name 'articleNumber' and a value of exactly four characters."
                }]
