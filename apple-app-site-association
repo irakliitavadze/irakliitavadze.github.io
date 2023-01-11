@@ -3,11 +3,7 @@
       "details": [
            {
              "appIDs": [ "7W5SZ22RAT.com.garantiemax" ],
-             "components": [{
-          "#": "no_universal_links",
-          "exclude": true,
-          "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
-        },
+             "components": [
                {
                   "/": "/*",
                   "?": { "modal": "CreatePassword", "token": "*"},
