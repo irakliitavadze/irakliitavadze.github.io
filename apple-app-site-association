@@ -5,7 +5,7 @@
              "appIDs": [ "7W5SZ22RAT.com.garantiemax" ],
              "components": [ {
              "/": "/?*",
-             "?": { "modal": "CreatePassword" }
+             "?": "modal"
              }]
            }
        ]
