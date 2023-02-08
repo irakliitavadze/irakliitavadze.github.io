@@ -2,10 +2,9 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "7W5SZ22RAT.com.garantiemax" ],
+             "appIDs": [ "3QWUQCS35L.com.beziehungsrausch" ],
              "components": [{
-                "?":{"modal":"CreatePassword", "token":"*"},
-                "/":"/"
+                "/":"/app/open/*"
               }
              ]
            }
