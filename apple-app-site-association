@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "3QWUQCS35L.com.beziehungsrausch",
-        "paths": ["*"]
+        "paths": ["/app/open/*"]
       }
     ]
   }
