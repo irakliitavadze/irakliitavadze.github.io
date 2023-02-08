@@ -1,13 +1,12 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "3QWUQCS35L.com.beziehungsrausch" ],
-             "components": [{
-                "/":"/app/open/*"
-              }
-             ]
-           }
-       ]
-   }
+    "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3QWUQCS35L.com.beziehungsrausch",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
+
