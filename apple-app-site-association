@@ -10,8 +10,10 @@
                 "?":{"token":"*", "email":"*"},
                 "/":"/portal/password"
               }, {
-                "?":{"code":"*"},
-                "/":"/contracts/confirmation"
+                "?":{"token":"*", "leadCode":"*"},
+                "/":"/"
+              }, {
+                "/":"/lead/"
               }
              ]
            }
