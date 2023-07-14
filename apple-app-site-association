@@ -4,10 +4,10 @@
            {
              "appIDs": [ "7W5SZ22RAT.com.garantiemax" ],
              "components": [{
-                "?":{"token":"*", "email":"*"},
+                "?":{"token":"?*", "email":"?*"},
                 "/":"/account/reset-password"
               }, {
-                "?":{"token":"*", "leadCode":"*"},
+                "?":{"token":"?*", "leadCode":"*"},
                 "/":"/registration"
               }, {
                 "?":{"code":"?*"},
