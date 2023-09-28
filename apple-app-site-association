@@ -2,16 +2,10 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "7W5SZ22RAT.com.garantiemax" ],
+             "appIDs": [ "W2MN7UK5WU.com.art.subjektiv" ],
              "components": [{
-                "?":{"token":"?*", "email":"?*"},
-                "/":"/account/reset-password"
-              }, {
-                "?":{"token":"?*", "leadCode":"*"},
-                "/":"/registration"
-              }, {
-                "?":{"code":"?*"},
-                "/":"/lead"
+                "?":{"token":"?*"},
+                "/":"/onboarding"
               }
              ]
            }
