@@ -4,7 +4,7 @@
            {
              "appIDs": [ "W2MN7UK5WU.com.art.subjektiv" ],
              "components": [{
-                "?":{"token":"?*"},
+                "?":{"idToken":"?*", "refreshToken":"?*"},
                 "/":"/onboarding"
               }
              ]
