@@ -4,6 +4,7 @@
            {
              "appIDs": [ "W2MN7UK5WU.com.art.subjektiv" ],
              "components": [{
+                "?":{"email":"?*", "code":"?*", "password_encrypted":"?*"},
                 "/":"/onboarding"
               }
              ]
